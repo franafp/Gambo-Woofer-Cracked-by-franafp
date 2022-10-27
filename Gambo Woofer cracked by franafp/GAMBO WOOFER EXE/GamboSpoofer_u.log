@@ -1,0 +1,19 @@
+Unpacker ExeCryptor 2.x.x. Version: 1.0 RC2
+
+- - - - - - - - - - - - - - - - SETTINGS - - - - - - - - - - - - - - - - - - -
+
+ - Clear pointer GetModuleHandleA
+ - Patch message "Debugger Detected"
+ - Patch File CRC Check
+ - Patch Memory CRC Check
+ - Remove trash from header
+ - Correct TLS in PE header
+ - Cut sections
+ - Reconstruct Dynamic Import:  Enabled
+ - Fix IAT in Dump
+ - Find VM OEP
+
+- - - - - - - - - - - - - - START UNPACK - - - - - - - - - - - - - - - -
+
+File: C:\Users\franafp\Desktop\gambo woofer\GamboSpoofer.exe
+Create Process...  PID = 0x1F8C ... Done

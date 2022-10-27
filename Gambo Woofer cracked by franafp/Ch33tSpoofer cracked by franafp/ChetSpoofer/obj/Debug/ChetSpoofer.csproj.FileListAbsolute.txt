@@ -1,0 +1,5 @@
+C:\Users\franafp\Documents\Ch33tSpoofer cracked by franafp\ChetSpoofer\obj\Debug\ChetSpoofer.csproj.AssemblyReference.cache
+C:\Users\franafp\Documents\Ch33tSpoofer cracked by franafp\ChetSpoofer\obj\Debug\ChetSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\franafp\Documents\Ch33tSpoofer cracked by franafp\ChetSpoofer\obj\Debug\ChetSpoofer.Spoofers.resources
+C:\Users\franafp\Documents\Ch33tSpoofer cracked by franafp\ChetSpoofer\obj\Debug\ChetSpoofer.csproj.GenerateResource.cache
+C:\Users\franafp\Documents\Ch33tSpoofer cracked by franafp\ChetSpoofer\obj\Debug\ChetSpoofer.csproj.CoreCompileInputs.cache
